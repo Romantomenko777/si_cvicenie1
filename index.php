@@ -110,7 +110,7 @@
         echo "$name má $age rokov <br>";
     }
 
-    // viktor 
+    // abc
 
     ?>
     
